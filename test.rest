@@ -1,0 +1,17 @@
+POST http://127.0.0.1:8000/api/chat/ HTTP/ 1.1
+Content-Type: application/json
+
+{
+    "email":"johndoe@gmail.com",
+    "message": "What is anxiety?"
+}
+
+
+###
+POST http://127.0.0.1:8000/api/chat/ HTTP/ 1.1
+Content-Type: application/json
+
+{
+    "email":"johndoe@gmail.com",
+    "message": "How do I combat depression?"
+}
