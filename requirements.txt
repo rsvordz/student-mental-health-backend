@@ -51,6 +51,7 @@ gradio_client==0.16.4
 greenlet==3.0.3
 grpcio==1.64.0
 grpcio-status==1.62.2
+gunicorn
 h11==0.14.0
 h5py==3.11.0
 httpcore==1.0.5
